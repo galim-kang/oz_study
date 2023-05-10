@@ -1,0 +1,45 @@
+2일차
+
+과제:
+.<select>,<option>
+속성 공부(익숙해지기)
+.회원가입 폼 만들기
+.html폼 태그 공부
+.css
+
+1.이미지 삽입하기.
+폴더 내 소스 저장 
+<img src="./이미지폴더/이미지" />
+
+2.<form>
+사용자 정보 받아올 때
+<form>
+input 아이디,패스워드,이메일...
+</form>
+
+3.<input type="">,<label>
+
+<div><label for="user_id">아이디 : </label></div>
+ <input id="user_id" type="text" maxlength="10" required>
+
+4. <input> 속성(type)
+text , password , email , radio
+
+5.<button onclick="alert('')"></button>
+-닫는 태그> <img>,<a>삽입 가능
+
+6.시멘틱 태그<header>,<main>,<footer>
+
+[
+CSS
+
+1.<link rel="stylesheet" href="./CSS파일이름.css">
+
+2.기본&그룹 선택자
+.class=""
+.id=""
+
+3.중복 될시
+.id>상세클래스>클래스>일반(뒤에 명령 우선)
+.class : tag.class > 상세 클래스
+] *

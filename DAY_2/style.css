@@ -1,0 +1,31 @@
+/* div {
+  background-color: orange;
+}
+H3 {
+  background-color: lightseagreen;
+}
+header {
+  background-color: beige;
+}
+input {
+  color: blue;
+  background-color: lightblue;
+}
+form {
+  color: blue;
+} */
+* {
+  color: darkorange;
+}
+p {
+  color: aqua;
+}
+p.blue {
+  color: blue;
+}
+p.dark {
+  color: green;
+}
+#red {
+  text-decoration: underline;
+}
